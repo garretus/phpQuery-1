@@ -1,22 +1,13 @@
 {
-    "name": "coderockr/php-query",
+    "name": "garretus/phpQuery-1",
     "description": "phpQuery",
     "keywords": ["phpQuery", "lib"],
     "type": "library",
-    "homepage": "https://github.com/coderockr/phpQuery",
+    "homepage": "https://github.com/garretus/phpQuery-1",
     "license": "Mit",
     "authors": [
         {
-            "name": "Duvanmonsa",
-            "email": "duvanmonsa@gmail.com",
-            "homepage": "https://github.com/duvanmonsa",
-            "role": "Developer"
-        },
-        {
-            "name": "Elton Minetto",
-            "email": "eminetto@coderockr.com",
-            "homepage": "https://github.com/eminetto",
-            "role": "Developer"
+            "name": "Garretus",
         }
     ],
     "require": {
